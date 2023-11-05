@@ -71,7 +71,7 @@
 прикрепите в файл README.md скриншот уведомления в Yandex Monitoring
 
 Ответ:
-
+![1](https://github.com/Sawyer086/9_01_monitoring/blob/main/2.jpg)
 
 ---
 
