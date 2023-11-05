@@ -57,7 +57,7 @@
 прикрепите в файл README.md скриншот вашего дашборда в Yandex Monitoring с мониторингом загрузки процессора виртуальной машины
 
 Ответ:
-
+![1](https://github.com/Sawyer086/9_01_monitoring/blob/main/1.jpg)
 
 ---
 
